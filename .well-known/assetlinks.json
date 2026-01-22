@@ -1,0 +1,99 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.parxcasino.pa.app.play.us.stg",
+      "sha256_cert_fingerprints": [
+        "B9:F4:F6:7A:74:05:FC:88:15:C5:42:00:EC:F0:F9:3F:7B:73:45:A9:57:F8:F5:33:63:09:12:5A:AE:A4:8C:CC",
+		"0B:EB:82:A5:E5:8D:E3:AF:CC:5A:44:B3:0A:93:58:4E:22:A4:74:05:34:0E:41:46:9B:15:29:95:C0:A7:33:25"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.parxcasino.pa.app.play.us",
+      "sha256_cert_fingerprints": [
+        "B9:F4:F6:7A:74:05:FC:88:15:C5:42:00:EC:F0:F9:3F:7B:73:45:A9:57:F8:F5:33:63:09:12:5A:AE:A4:8C:CC",
+		"0B:EB:82:A5:E5:8D:E3:AF:CC:5A:44:B3:0A:93:58:4E:22:A4:74:05:34:0E:41:46:9B:15:29:95:C0:A7:33:25"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.playgunlake.app.play.us.stg",
+      "sha256_cert_fingerprints": [
+        "B9:F4:F6:7A:74:05:FC:88:15:C5:42:00:EC:F0:F9:3F:7B:73:45:A9:57:F8:F5:33:63:09:12:5A:AE:A4:8C:CC",
+		"D4:41:10:A0:6A:80:D0:02:30:CF:C5:5F:43:50:7D:FD:8E:76:36:0A:92:8B:C5:D7:9C:D6:EA:A3:3F:CC:D8:06"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.playgunlake.app.play.us",
+      "sha256_cert_fingerprints": [
+        "B9:F4:F6:7A:74:05:FC:88:15:C5:42:00:EC:F0:F9:3F:7B:73:45:A9:57:F8:F5:33:63:09:12:5A:AE:A4:8C:CC",
+		"D4:41:10:A0:6A:80:D0:02:30:CF:C5:5F:43:50:7D:FD:8E:76:36:0A:92:8B:C5:D7:9C:D6:EA:A3:3F:CC:D8:06"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.parxcasino.nj.app.play.us.stg",
+      "sha256_cert_fingerprints": [
+        "B9:F4:F6:7A:74:05:FC:88:15:C5:42:00:EC:F0:F9:3F:7B:73:45:A9:57:F8:F5:33:63:09:12:5A:AE:A4:8C:CC",
+		"77:9E:11:C6:6E:4F:70:C4:06:09:6C:A4:8E:92:FD:B6:D8:A2:27:2D:8A:EF:FA:77:E6:D0:04:2B:7E:01:27:DB"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.parxcasino.nj.app.play.us",
+      "sha256_cert_fingerprints": [
+        "B9:F4:F6:7A:74:05:FC:88:15:C5:42:00:EC:F0:F9:3F:7B:73:45:A9:57:F8:F5:33:63:09:12:5A:AE:A4:8C:CC",
+		"77:9E:11:C6:6E:4F:70:C4:06:09:6C:A4:8E:92:FD:B6:D8:A2:27:2D:8A:EF:FA:77:E6:D0:04:2B:7E:01:27:DB"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ch.swisscasinos.native.app.stg",
+      "sha256_cert_fingerprints": [
+        "B9:F4:F6:7A:74:05:FC:88:15:C5:42:00:EC:F0:F9:3F:7B:73:45:A9:57:F8:F5:33:63:09:12:5A:AE:A4:8C:CC"
+      ]
+    }
+  }
+]
